@@ -1,0 +1,15 @@
+Y,Prot,Alimento,mu,AP,BP,Res,Cereal,Puerco,AP-Res,AP-Cereal,AP-Puerco,BP-Res,BP-Cereal,BP-Puerco,Peso_inicial
+73,Alta,Res,1,1,0,1,0,0,1,0,0,0,0,0,140
+102,Alta,Res,1,1,0,1,0,0,1,0,0,0,0,0,130
+56,Alta,Res,1,1,0,1,0,0,1,0,0,0,0,0,95
+98,Alta,Cereal,1,1,0,0,1,0,0,1,0,0,0,0,88
+74,Alta,Cereal,1,1,0,0,1,0,0,1,0,0,0,0,96
+90,Alta,Cereal,1,1,0,0,1,0,0,1,0,0,0,0,112
+94,Alta,Puerco,1,1,0,0,0,1,0,0,1,0,0,0,100
+79,Alta,Puerco,1,1,0,0,0,1,0,0,1,0,0,0,99
+90,Baja,Res,1,0,1,1,0,0,0,0,0,1,0,0,76
+76,Baja,Res,1,0,1,1,0,0,0,0,0,1,0,0,100
+107,Baja,Cereal,1,0,1,0,1,0,0,0,0,0,1,0,108
+95,Baja,Cereal,1,0,1,0,1,0,0,0,0,0,1,0,79
+49,Baja,Puerco,1,0,1,0,0,1,0,0,0,0,0,1,93
+82,Baja,Puerco,1,0,1,0,0,1,0,0,0,0,0,1,120
