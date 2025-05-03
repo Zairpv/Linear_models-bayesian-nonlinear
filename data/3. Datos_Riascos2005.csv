@@ -1,0 +1,14 @@
+Salario,N_EDUC,GENERO,PROCED,GF,CP
+200,primaria,masculino,Putumayo,125,50
+205,primaria,masculino,Nariño,130,65
+220,secundaria,masculino,Cauca,140,80
+228,secundaria,femenino,Nariño,142,86
+252,técnica,femenino,Nariño,162,90
+264,técnica,masculino,Putumayo,172,90
+272,técnica,masculino,Putumayo,200,70
+315,pregrado,femenino,Cauca,215,80
+324,pregrado,femenino,Putumayo,225,80
+340,pregrado,masculino,Putumayo,400,100
+618,postgrado,femenino,Nariño,325,130
+720,postgrado,masculino,Nariño,360,140
+800,postgrado,femenino,Cauca,380,160
